@@ -4,6 +4,10 @@
 
   - [Conducting a security audit](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Using Nist Cybersecurity Framework to respond to a security incident](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Install software in Linux Distibution](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Examine input and output in the shell](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Find files with linux commands](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Manage files with linux commands](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📺 Popular YouTube Videos</h2>
